@@ -47,13 +47,22 @@ I am an IT professional exploring Cybersecurity, Data Analytics, and hands-on te
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
+## Certifications new
+<div> 
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-CC_(Certified_in_Cybersecurity)-006400?&style=for-the-badge&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Cybersecurity_Fundamentals_(ISACA)-002B5B?&style=for-the-badge&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-CCST_Networking-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Qualys_VM_Foundation-ED1C24?&style=for-the-badge&logo=Qualys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ISA-000080?&style=for-the-badge&logoColor=white" /> 
 </div>
 
 ## Projects
