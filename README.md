@@ -7,7 +7,6 @@ I am an IT professional exploring Cybersecurity, Data Analytics, and hands-on te
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
