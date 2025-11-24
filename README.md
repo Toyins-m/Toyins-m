@@ -18,31 +18,33 @@ I am an IT professional exploring Cybersecurity, Data Analytics, and hands-on te
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-2E8B57?style=for-the-badge&logo=nmap&logoColor=white" />
+
 </div>
 
-### Endpoint
+### Endpoint & Security
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-000000?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-6C3483?style=for-the-badge&logo=metasploit&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM & Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys-ED1C24?&style=for-the-badge&logo=Qualys&logoColor=white" />
 </div>
 
-### Data
-
-### Visualization 
+### Data & Visualization 
+<div> 
+    <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" /> <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /> 
+</div>
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
