@@ -40,6 +40,10 @@ I am an IT professional exploring Cybersecurity, Data Analytics, and hands-on te
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Data
+
+### Visualization 
+
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
