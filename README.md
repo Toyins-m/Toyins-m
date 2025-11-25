@@ -8,7 +8,7 @@ I am an IT professional exploring Cybersecurity, Data Analytics, and hands-on te
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project(s)        |
 |-----------------------------------------------|----------------------------|
 | Incident Response Planning and Execution      | <a href="https://github.com/Toyins-m/Project-Healthcare-Security-Architecture-Threat-Modeling-and-Incident-Response-Implementation"> Healthcare Security Architecture </a>|
 
