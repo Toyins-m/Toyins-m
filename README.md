@@ -10,6 +10,7 @@ I am an IT professional exploring Cybersecurity, Data Analytics, and hands-on te
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Incident Response Planning and Execution      | <a href="https://google.com"> Healthcare Security Architecture </a>|
 
 
 ## Tools
