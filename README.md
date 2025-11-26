@@ -11,6 +11,7 @@ I am an IT professional exploring Cybersecurity, Data Analytics, and hands-on te
 | Skill                                         | Associated Project(s)        |
 |-----------------------------------------------|----------------------------|
 | Incident Response Planning and Execution      | <a href="https://github.com/Toyins-m/Project-Healthcare-Security-Architecture-Threat-Modeling-and-Incident-Response-Implementation"> Healthcare Security Architecture </a>|
+| Penetration Testing & Vulnerability Exploitation | <a href="https://github.com/Toyins-m/Offensive-Security-Exploitation-Lab"> Offensive-Security-Exploitation-Lab </a> |
 
 
 ## Tools
