@@ -56,4 +56,4 @@ I am an IT professional exploring Cybersecurity, Data Analytics, and hands-on te
 
 ## Projects
 - <a href="https://github.com/Toyins-m/Project-Healthcare-Security-Architecture-Threat-Modeling-and-Incident-Response-Implementation"> Healthcare Security Architecture, Threat Modeling, and Incident Response Implementation </a>
-- <a href="https://github.com/Toyins-m/Project-Healthcare-Security-Architecture-Threat-Modeling-and-Incident-Response-Implementation"> Healthcare Security Architecture, Threat Modeling, and Incident Response Implementation </a>
+- <a href="https://github.com/Toyins-m/Offensive-Security-Exploitation-Lab"> Offensive-Security-Exploitation-Lab </a>
