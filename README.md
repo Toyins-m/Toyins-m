@@ -11,8 +11,8 @@ I am an IT professional exploring Cybersecurity, Data Analytics, and hands-on te
 | Skill                                         | Associated Project(s)        |
 |-----------------------------------------------|----------------------------|
 | Incident Response Planning and Execution      | <a href="https://github.com/Toyins-m/Project-Healthcare-Security-Architecture-Threat-Modeling-and-Incident-Response-Implementation"> Healthcare Security Architecture </a>|
-| Penetration Testing & Vulnerability Exploitation | <a href="https://github.com/Toyins-m/Offensive-Security-Exploitation-Lab"> Offensive-Security-Exploitation-Lab </a> |
-| Data Analytics, Forecasting & Visualization | <a href="https://github.com/Toyins-m/Offensive-Security-Exploitation-Lab"> Offensive-Security-Exploitation-Lab </a> |
+| Penetration Testing & Vulnerability Exploitation | <a href="https://github.com/Toyins-m/Offensive-Security-Exploitation-Lab"> Offensive Security Exploitation Lab </a> |
+| Data Analytics, Forecasting & Visualization | <a href="https://github.com/Toyins-m/An-Empirical-Investigation-of-Data-Breaches-in-the-Healthcare-Sector"> Healthcare Data Breach Empirical Analysis </a> |
 
 ## Tools
 
@@ -42,6 +42,7 @@ I am an IT professional exploring Cybersecurity, Data Analytics, and hands-on te
 <div> 
     <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" /> 
     <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div>
 
 
@@ -57,4 +58,5 @@ I am an IT professional exploring Cybersecurity, Data Analytics, and hands-on te
 
 ## Projects
 - <a href="https://github.com/Toyins-m/Project-Healthcare-Security-Architecture-Threat-Modeling-and-Incident-Response-Implementation"> Healthcare Security Architecture, Threat Modeling, and Incident Response Implementation </a>
-- <a href="https://github.com/Toyins-m/Offensive-Security-Exploitation-Lab"> Offensive-Security-Exploitation-Lab </a>
+- <a href="https://github.com/Toyins-m/Offensive-Security-Exploitation-Lab"> Offensive Security Exploitation Lab </a>
+- <a href="https://github.com/Toyins-m/An-Empirical-Investigation-of-Data-Breaches-in-the-Healthcare-Sector"> Healthcare Data Breach Empirical Analysis </a>
