@@ -12,7 +12,7 @@ I am an IT professional exploring Cybersecurity, Data Analytics, and hands-on te
 |-----------------------------------------------|----------------------------|
 | Incident Response Planning and Execution      | <a href="https://github.com/Toyins-m/Project-Healthcare-Security-Architecture-Threat-Modeling-and-Incident-Response-Implementation"> Healthcare Security Architecture </a>|
 | Penetration Testing & Vulnerability Exploitation | <a href="https://github.com/Toyins-m/Offensive-Security-Exploitation-Lab"> Offensive Security Exploitation Lab </a> |
-| Data Analytics, Forecasting & Visualization | <a href="https://github.com/Toyins-m/An-Empirical-Investigation-of-Data-Breaches-in-the-Healthcare-Sector"> Healthcare Data Breach Empirical Analysis </a> |
+| Data Analytics, Forecasting & Visualization | <a href="https://github.com/Toyins-m/An-Empirical-Investigation-of-Data-Breaches-in-the-Healthcare-Sector"> Healthcare Data Breach Empirical Analysis </a>, <a href="https://github.com/Toyins-m/Farmers-Market-EBT-Data-Analysis"> Farmers Market EBT Data Analysis </a> |
 
 ## Tools
 
@@ -29,6 +29,7 @@ I am an IT professional exploring Cybersecurity, Data Analytics, and hands-on te
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sysmon-000000?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-6C3483?style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </div>
 
 ### SIEM & Monitoring
@@ -43,6 +44,8 @@ I am an IT professional exploring Cybersecurity, Data Analytics, and hands-on te
     <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" /> 
     <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
 </div>
 
 
@@ -60,3 +63,4 @@ I am an IT professional exploring Cybersecurity, Data Analytics, and hands-on te
 - <a href="https://github.com/Toyins-m/Project-Healthcare-Security-Architecture-Threat-Modeling-and-Incident-Response-Implementation"> Healthcare Security Architecture, Threat Modeling, and Incident Response Implementation </a>
 - <a href="https://github.com/Toyins-m/Offensive-Security-Exploitation-Lab"> Offensive Security Exploitation Lab </a>
 - <a href="https://github.com/Toyins-m/An-Empirical-Investigation-of-Data-Breaches-in-the-Healthcare-Sector"> Healthcare Data Breach Empirical Analysis </a>
+- <a href="https://github.com/Toyins-m/Farmers-Market-EBT-Data-Analysis"> Farmers Market EBT Data Analysis </a>
