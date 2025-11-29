@@ -12,7 +12,7 @@ I am an IT professional exploring Cybersecurity, Data Analytics, and hands-on te
 |-----------------------------------------------|----------------------------|
 | Incident Response Planning and Execution      | <a href="https://github.com/Toyins-m/Project-Healthcare-Security-Architecture-Threat-Modeling-and-Incident-Response-Implementation"> Healthcare Security Architecture </a>|
 | Penetration Testing & Vulnerability Exploitation | <a href="https://github.com/Toyins-m/Offensive-Security-Exploitation-Lab"> Offensive Security Exploitation Lab </a> |
-| Data Analytics, Forecasting & Visualization | <a href="https://github.com/Toyins-m/An-Empirical-Investigation-of-Data-Breaches-in-the-Healthcare-Sector"> Healthcare Data Breach Empirical Analysis </a>, <a href="https://github.com/Toyins-m/Farmers-Market-EBT-Data-Analysis"> Farmers Market EBT Data Analysis </a>, <a href="https://github.com/Toyins-m/An-Analysis-of-Reported-Crime-Incidents-in-Chicago" > Chicago Crime Big Data Analytics </a>|
+| Data Analytics, Forecasting & Visualization | <a href="https://github.com/Toyins-m/An-Empirical-Investigation-of-Data-Breaches-in-the-Healthcare-Sector"> Healthcare Data Breach Empirical Analysis </a>, <a href="https://github.com/Toyins-m/Farmers-Market-EBT-Data-Analysis"> Farmers Market EBT Data Analysis </a>, <a href="https://github.com/Toyins-m/An-Analysis-of-Reported-Crime-Incidents-in-Chicago" > Chicago Crime Big Data Analytics </a>, <a href="https://github.com/Toyins-m/Impact-of-Advertisement-on-Amazon-Sales"> Impact of Advertisement on Amazon Sales </a> |
 | Systems Analysis, JAD & Agile Web Design          | <a href="https://github.com/Toyins-m/Enhancing-After-School-Programs-for-Children-Facing-Homelessness-and-Mental-Illness"> After-School Program Systems Analysis & Website </a> |
 
 ## Tools
@@ -84,3 +84,4 @@ I am an IT professional exploring Cybersecurity, Data Analytics, and hands-on te
 - <a href="https://github.com/Toyins-m/Farmers-Market-EBT-Data-Analysis"> Farmers Market EBT Data Analysis </a>
 - <a href="https://github.com/Toyins-m/Enhancing-After-School-Programs-for-Children-Facing-Homelessness-and-Mental-Illness"> After-School Program Systems Analysis & Website </a>
 - <a href="https://github.com/Toyins-m/An-Analysis-of-Reported-Crime-Incidents-in-Chicago" > Chicago Crime Big Data Analytics </a>
+- <a href="https://github.com/Toyins-m/Impact-of-Advertisement-on-Amazon-Sales"> Impact of Advertisement on Amazon Sales </a>
